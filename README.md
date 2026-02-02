@@ -13,7 +13,7 @@
 <p align="left">✨ Creating bugs since my 13 years old</p>
 
 
-###Minhas tecnologias
+### Minhas tecnologias
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
