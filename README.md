@@ -13,11 +13,12 @@
 <p align="left">✨ Creating bugs since my 13 years old</p>
 
 
-### Minhas tecnologias
+### ⚒️ Tech Stack:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+<div>
+    <img alt="HTML5 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img alt="CSS3 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+    <img alt="JavaScript icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 </div>
 
 ###
