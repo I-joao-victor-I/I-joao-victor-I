@@ -11,6 +11,7 @@
 ###
 
 <p align="left">✨ Creating bugs since my 13 years old</p>
+<p align="left">✨ Being one with my own codes</p>
 
 
 ### ⚒️ Tech Stack:
@@ -22,10 +23,4 @@
 </div>
 
 ###
-<!-- <style>
-        .icons{
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
-        }
-</style> -->
+
