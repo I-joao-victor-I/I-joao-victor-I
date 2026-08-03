@@ -19,8 +19,8 @@
 
 <br />
 
-<img src="https://github-readme-stats-sirceu.vercel.app/api?username=l-joao-victor-l&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
-<img src="https://github-readme-stats-sirceu.vercel.app/api/top-langs/?username=l-joao-victor-l&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
+<img src="https://github-readme-stats-cqp5.vercel.app/api?username=l-joao-victor-l&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
+<img src="https://github-readme-stats-cqp5.vercel.app/api/top-langs/?username=l-joao-victor-l&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
 
 <div>
     <img alt="HTML5 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
