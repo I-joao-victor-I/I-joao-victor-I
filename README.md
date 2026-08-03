@@ -14,14 +14,16 @@
 <p align="left">✨ Being one with my own codes</p>
 
 
-### ⚒️ Tech Stack:
+### ⚒️ Statistics:
 
 
 <br />
+<div>
+    <img src="https://github-readme-stats-cqp5.vercel.app/api?username=I-joao-victor-I&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
+    <img src="https://github-readme-stats-cqp5.vercel.app/api/top-langs/?username=I-joao-victor-I&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
+</div>
 
-<img src="https://github-readme-stats-cqp5.vercel.app/api?username=I-joao-victor-I&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
-<img src="https://github-readme-stats-cqp5.vercel.app/api/top-langs/?username=I-joao-victor-I&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
-
+### My Languages:
 <div>
     <img alt="HTML5 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
     <img alt="CSS3 icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
