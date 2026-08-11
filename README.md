@@ -2,7 +2,7 @@
 
 ###
 <div display:flex; flex-direction:row;>
-  <img height=120 width=120 src="./hollowknight.gif" alt="Gif Hollow Knight">
+  <img align="center" height=120 width=120 src="./hollowknight.gif" alt="Gif Hollow Knight">
   <p align="left">My name is João Victor and I'm 16 years old, from Brazil</p>  
 </div>
 
@@ -22,9 +22,11 @@
 
 <br />
 <div>
-    <img src="https://github-readme-stats-cqp5.vercel.app/api?username=I-joao-victor-I&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
-    <img src="https://github-readme-stats-cqp5.vercel.app/api/top-langs/?username=I-joao-victor-I&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
+    <img align="left" src="https://github-readme-stats-cqp5.vercel.app/api?username=I-joao-victor-I&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
+    <img align="right" src="https://github-readme-stats-cqp5.vercel.app/api/top-langs/?username=I-joao-victor-I&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
 </div>
+
+##
 
 ### My Languages:
 <div>
