@@ -1,8 +1,11 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
+<div display:flex; flex-direction:row;>
+  <img height=120 width=120 src="./hollowknight.gif" alt="Gif Hollow Knight">
+  <p align="left">My name is João Victor and I'm 16 years old, from Brazil</p>  
+</div>
 
-<p align="left">My name is João Victor and I'm 16 years old, from Brazil</p>
 
 ###
 
