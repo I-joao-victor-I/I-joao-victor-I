@@ -22,9 +22,11 @@
 
 <br />
 <div>
-    <img align="left" src="https://github-readme-stats-cqp5.vercel.app/api?username=I-joao-victor-I&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
-    <img align="right" src="https://github-readme-stats-cqp5.vercel.app/api/top-langs/?username=I-joao-victor-I&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
+    <img align="left" src="https://github-readme-stats-cqp5-sirceu.vercel.app/api?username=I-joao-victor-I&show_icons=true&theme=radical&v=1" alt="Estatísticas do GitHub" height="180" />
+    <img align="right" src="https://github-readme-stats-cqp5-sirceu.vercel.app/api/top-langs/?username=I-joao-victor-I&layout=compact&theme=radical&v=1" alt="Linguagens Mais Usadas" height="180" />
 </div>
+
+
 
 ##
 
